@@ -1,0 +1,22 @@
+{
+  "base_price": 4995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--HHI Dominance--\n\nNear-monopoly positions in their local market.\n\nBusinesses that mathematically \"own\" their local market (>30% share) with high HHI contribution of >900 within 1km.\n\nSafe, cash-flow-heavy bets that competitors can't easily dislodge.",
+  "config_name": "The HHI Monopoly Index for Arizona, US",
+  "export_job_id": "430cb5af-230a-4017-966e-19d295a2aa44",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 586517,
+  "location_name": "Arizona",
+  "location_type": "state",
+  "repo_name": "the-hhi-monopoly-index-for-arizona-us-sample-586517",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/586517/beamstation_586517_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 1.08,
+  "sample_records": 3,
+  "sample_sha256": "0f972b5c2075a18f9cbb2500151167d9234bb97e1737e4ce6adce4cb4177db3a",
+  "sample_size_bytes": 28010,
+  "total_records": 279,
+  "updated_at": "2026-04-01T00:11:39.311560+00:00"
+}
