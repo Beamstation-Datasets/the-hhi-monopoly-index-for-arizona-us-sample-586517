@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Arizona, US
 
-> Free BeamStation sample export with 49 rows and masked direct-contact fields.
+> Free BeamStation sample export with 41 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `586517` |
 | Location | Arizona |
 | Category | Restaurants |
-| Full dataset size | 495 records |
-| Free sample size | 49 records (9.9%) |
-| Last export | 2026-04-15T01:54:36.115501+00:00 |
+| Full dataset size | 413 records |
+| Free sample size | 41 records (9.93%) |
+| Last export | 2026-04-22T06:42:40.514003+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-arizona-us-sample-586517/releases/download/sample-latest/beamstation_586517_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
